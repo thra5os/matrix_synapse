@@ -1,0 +1,6 @@
+homeserver.db
+homeserver.db-wal  
+localhost.log.config
+homeserver.db-shm  
+homeserver.yaml    
+localhost.signing.key
